@@ -1,0 +1,17 @@
+ 
+*{
+  box-sizing: border-box;
+}
+.plus{ 
+    border: solid;
+    width: 1249px;
+    height: 376px;
+    margin: auto;
+   background-color: #22F4da;
+   border-radius: 30px;
+   border: none;
+}
+.box{
+  padding-top: 60px;
+  margin-left: 550px;
+}
